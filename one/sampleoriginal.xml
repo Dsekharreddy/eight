@@ -34,7 +34,7 @@
       <Phone>(509) 555-7969</Phone>
       <Fax>(509) 555-6221</Fax>
       <FullAddress>
-        <Address>12 Orchestra Terrace</Address>
+        <Address>12 Orches</Address>
         <City>Walla Walla</City>
         <Region>WA</Region>
         <PostalCode>99362</PostalCode>
@@ -65,7 +65,7 @@
         <ShipVia>2</ShipVia>
         <Freight>3.35</Freight>
         <ShipName>Great Lakes Food Market</ShipName>
-        <ShipAddress>2732 Baker Blvd.</ShipAddress>
+        <ShipAddress>2732 B.</ShipAddress>
         <ShipCity>Eugene</ShipCity>
         <ShipPostalCode>97403</ShipPostalCode>
         <ShipCountry>USA</ShipCountry>
